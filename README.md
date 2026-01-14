@@ -1,0 +1,1 @@
+# Inactive-Device-Cleanup-Workflow-for-Jamf-Pro
